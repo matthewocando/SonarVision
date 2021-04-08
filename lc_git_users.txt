@@ -1,0 +1,7 @@
+Matthew,Ocando,joselocandof@gmail.com,matthewocando,2021_ENCM369
+ENCM369,Geoffrey Messier,jrlong@ucalgary.ca,UofCencm369,2021_ENCM369
+Qinglan,Lin,qinglan.lin@ucalgary.ca,QueenieQLL,2021_ENCM369
+Alexa,Grebenstein,alexa.grebenstein@ucalgary.ca,alexa-jaye,2021_ENCM369
+Sean,Schmalzl,sean.schmalzl@ucalgary.ca,sschmalzl,2021_ENCM369
+Miguel, Mariani, miguel.mariani@ucalgary.ca, miguelmariani, 2021_ENCM369
+Chenxiao,Zhang, chenxiao.zhang@ucalgary.ca,zoez99,2021_ENCM369
